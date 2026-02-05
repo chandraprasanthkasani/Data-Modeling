@@ -1,1 +1,2 @@
 # Data-Modeling
+This repository implements an end-to-end data modeling pipeline using Medallion Architecture and dimensional modeling with star schemas to ensure scalable reporting and optimized query performance. It features advanced data engineering techniques, including incremental loading, surrogate keys, and slowly changing dimensions (SCD Types 1 and 2) for robust history tracking and data integrity.
